@@ -1,0 +1,6 @@
+notes.md
+data/
+images/
+.vscode/
+__pycache__/
+venv/
